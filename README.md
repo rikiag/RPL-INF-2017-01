@@ -1,2 +1,2 @@
 # info_pasar
-repo dibut untuk menyelesaikan tugas pada MK Rekayasa Peerangkat Lunak
+repo dibuat untuk menyelesaikan tugas pada MK Rekayasa Perangkat Lunak
